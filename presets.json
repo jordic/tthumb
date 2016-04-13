@@ -1,0 +1,3 @@
+{
+    "roig300": "-colorspace gray -level +10% +level-colors '#000000','#ffec00' -thumbnail 350x250^ -extent 350x250 -quality 82"
+}
